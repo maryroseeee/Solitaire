@@ -1,5 +1,1 @@
--Made Basic Klondike more readable by adding helpers in KlondikeUtils that checks exceptions in mutator functions and checks if game started in almost all methods
--Added redraw count in BasicCard parameter
--Updated validMove functions in BasicPile so it works for new game modes
--fixed how draw list is constructed
--Added controller appending "enter new value" message when random letter is added mid input
+
